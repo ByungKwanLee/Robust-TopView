@@ -2,7 +2,7 @@
 - **Author  : `Byungkwan Lee` (leebk@kaist.ac.kr)        M.S. Candidate**
 - **Support : `Chungjae Choe` (cjchoe12@kaist.ac.kr)     M.S. Candidate**
 - **Support : `Giho sung`     (giho.sung@kaist.ac.kr)    M.S. Candidate**
-- **Advisor : `Dongsoo Ha`    (dshar@kaist.ac.kr)        Professor**
+- **Advisor : `Dongsoo Har`    (dshar@kaist.ac.kr)        Professor**
 
 ## Requirements
 - ROS kinetic version
