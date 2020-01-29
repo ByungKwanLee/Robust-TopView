@@ -1,8 +1,5 @@
 # Robust Topview for analyzing signular value (Real-Time processing by ROS)
-- **Author  : `Byungkwan Lee` (leebk@kaist.ac.kr)        M.S. Candidate**
-- **Support : `Chungjae Choe` (cjchoe12@kaist.ac.kr)     M.S. Candidate**
-- **Support : `Giho sung`     (giho.sung@kaist.ac.kr)    M.S. Candidate**
-- **Advisor : `Dongsoo Har`    (dshar@kaist.ac.kr)        Professor**
+- **Author  : `Byung-Kwan Lee` (leebk@kaist.ac.kr)        M.S. Candidate**
 
 ## Requirements
 - ROS kinetic version
